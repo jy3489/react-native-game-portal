@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "GamePortal",
+    "slug": "gameportal",
+    "version": "1.0.0",
+    "userInterfaceStyle": "light",
+    "web": { "bundler": "metro" }
+  }
+}
